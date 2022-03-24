@@ -12,7 +12,7 @@ if Starplayers == Totalplyers:
     print(str(Starplayers) + '+')
 else:
     print(Starplayers)
-10
+
 
         
 
